@@ -46,7 +46,7 @@ cd ~/ros2_ws/src
 - clone packages
 
 ```bash
-git clone https://github.com/RLmodel/FW-mini.git
+git clone https://github.com/RLmodel/FW-max_pro-2025.git
 ```
 
 <br/>
